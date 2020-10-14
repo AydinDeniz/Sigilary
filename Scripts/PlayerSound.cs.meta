@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9483ae7120e5aa84cb06e9a1fe2ab449
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - footStepLeft: {fileID: 8300000, guid: 8ed7baba81ba60a4caa783a83db1f0bd, type: 3}
+  - footStepRight: {fileID: 8300000, guid: 895031b34aa3b944d9de950520e4e0c3, type: 3}
+  - fall: {fileID: 8300000, guid: 968717df3bdf162458f096352ea58814, type: 3}
+  - audioS: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
